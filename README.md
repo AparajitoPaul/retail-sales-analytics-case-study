@@ -2,6 +2,7 @@
 📌 Overview
 
 Performed end-to-end Exploratory Data Analysis on 1M+ retail transactions to uncover revenue drivers, customer behavior patterns, and retention dynamics.
+Data Source : [Online Retail II UCI](https://www.kaggle.com/datasets/mashlyn/online-retail-ii-uci)
 
 This project demonstrates business-focused analytics using Python.
 
@@ -48,4 +49,5 @@ README.md
 The analysis highlights revenue concentration risk, customer retention opportunities, and operational return exposure — translating transactional data into actionable strategy.
 
 Aparajito Paul
+
 Data Analytics | Python | Business Intelligence
